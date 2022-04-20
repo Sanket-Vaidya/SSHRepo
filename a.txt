@@ -1,7 +1,6 @@
 I am editing this file.
 Hi editing
-
-
+Hi again editing via remote repository.
 
 
 
